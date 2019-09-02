@@ -4,7 +4,7 @@ node_js:
 install: 
   - yarn install
 script:
-  - npm run deploy
+  - ./.travis/deploy.sh
 cache:
   directories:
     - node_modules
