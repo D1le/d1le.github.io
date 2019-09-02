@@ -7,5 +7,5 @@ gatsby build --prefix-paths
 gh-pages \
     --dist public \
     --branch master \
-    --repo "https://${GITHUB_TOKEN}@$github.com/${TRAVIS_REPO_SLUG}.git"
+    --repo "https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git"
     --user "Travis CI <deploy@travis-ci.org>"
