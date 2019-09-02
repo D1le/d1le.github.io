@@ -3,9 +3,10 @@
 module.exports = {
   url: 'https://alexey-lapin.github.io/',
   pathPrefix: '/',
-  title: 'Alexey Lapin Blog',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© 2019',
+  title: 'Alexey Lapin - Dev!',
+  subtitle: '',
+  // copyright: '© 2019',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-146788133-1',
@@ -27,7 +28,7 @@ module.exports = {
   author: {
     name: 'Alexey Lapin',
     photo: '/photo.jpg',
-    bio: 'Passionate developer and Java enthusiast',
+    bio: 'Curious explorer, Passionate developer and Java enthusiast',
     contacts: {
       email: 'alexey-lapin@protonmail.com',
       facebook: '',
