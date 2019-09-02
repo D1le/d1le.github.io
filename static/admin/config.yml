@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: alexey-lapin/alexey-lapin.github.io
+  branch: develop
+  site_domain: alexey-lapin.netlify.com
 
 media_folder: "static/media"
 public_folder: "/media"
