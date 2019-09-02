@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://alexey-lapin.github.io/',
   pathPrefix: '/',
-  title: 'Alexey Lapin - Dev!',
+  title: 'Alexey Lapin - Dev',
   subtitle: '',
   // copyright: '© 2019',
   copyright: '',
