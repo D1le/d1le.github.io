@@ -18,8 +18,8 @@ const Author = ({ author, isIndex }: Props) => (
       <img
         src={withPrefix(author.photo)}
         className={styles['author__photo']}
-        width="75"
-        height="75"
+        width="120"
+        height="120"
         alt={author.name}
       />
     </Link>
@@ -34,6 +34,9 @@ const Author = ({ author, isIndex }: Props) => (
       </h2>
     )}
     <p className={styles['author__subtitle']}>{author.bio}</p>
+    {/* <p className={styles['author__skill']}>Curious explorer</p> */}
+    {/* <p className={styles['author__skill']}>Passionate engineer</p> */}
+    {/* <p className={styles['author__skill']}>Technology enthusiast</p> */}
   </div>
 );
 

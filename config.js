@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://alexey-lapin.github.io/',
   pathPrefix: '/',
   title: 'Alexey Lapin - Dev',
-  subtitle: '',
+  subtitle: 'My personal site about technologies and interesting things',
   // copyright: '© 2019',
   copyright: '',
   disqusShortname: '',
@@ -16,13 +16,17 @@ module.exports = {
       label: 'Blog',
       path: '/'
     },
+    // {
+    //   label: 'About me',
+    //   path: '/pages/about'
+    // },
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'CV',
+      path: '/pages/cv'
     }
   ],
   author: {
