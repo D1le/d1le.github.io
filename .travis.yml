@@ -14,6 +14,8 @@ deploy:
   keep_history: true
   local_dir: public
   target_branch: master
+  on:
+    branch: develop
 
 branches:
   only:
