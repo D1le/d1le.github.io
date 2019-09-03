@@ -11,7 +11,7 @@ tags:
   - "Wings"
 description: "Some words about Pega Platform and DevOps, open source software and attempt to
 create an alternative for platform's built-in functionality."
-# socialImage: "/media/42-line-bible.jpg"
+socialImage: ""
 ---
 
 Hello!
