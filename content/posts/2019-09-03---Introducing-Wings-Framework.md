@@ -2,7 +2,7 @@
 title: Introducing Pega Wings framework
 date: "2019-09-03T10:40:30.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/introducing-pega-wings-framework/"
 category: "Pega PRPC"
 tags:

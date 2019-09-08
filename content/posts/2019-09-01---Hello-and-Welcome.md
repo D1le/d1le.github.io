@@ -5,6 +5,12 @@ template: "post"
 draft: false
 slug: "/posts/hello-and-welcome/"
 category: ""
-description: "Hello and welcome to my personal site! In this post I'm going to talk a little about myself."
+description: "Hello and welcome to my personal site!"
 socialImage: ""
 ---
+
+Hello there!
+
+I'm going to write some posts about various things in this blog. Mostly focus will be on my projects and interesting technologies.
+
+More content soon!

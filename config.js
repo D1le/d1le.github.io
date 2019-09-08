@@ -25,8 +25,8 @@ module.exports = {
     //   path: '/pages/contacts'
     // }
     {
-      label: 'CV',
-      path: '/pages/cv'
+      label: 'Resume',
+      path: '/pages/resume'
     }
   ],
   author: {
