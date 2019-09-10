@@ -41,7 +41,7 @@ module.exports = {
       github: 'alexey-lapin',
       rss: '',
       vkontakte: '',
-      linkedin: '',
+      linkedin: 'alexey-lapin',
       instagram: '',
       line: '',
       gitlab: '',
