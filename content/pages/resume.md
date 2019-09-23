@@ -10,7 +10,7 @@ template: "page"
 + REST, SOAP, JMS
 + WebSphere, Tomcat
 + SQL, PostgreSQL
-+ Pega
++ Pega PRPC
 + Agile stuff: Atlassian, Scrum, Planning, Grooming
 
 ### employment
