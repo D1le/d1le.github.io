@@ -6,7 +6,7 @@ template: "page"
 [Download PDF](/alexey-lapin-resume.pdf)
 ### skills
 + Java ecosystem - Groovy, Maven, Gradle, JUnit, Mockito
-+ DevOps - Git, Jenkins, Nexus, BitBucket
++ DevOps - Git, Jenkins, Nexus, BitBucket, Ansible
 + REST, SOAP, JMS
 + WebSphere, Tomcat
 + SQL, PostgreSQL
