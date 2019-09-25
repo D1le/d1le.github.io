@@ -14,7 +14,7 @@ template: "page"
 + Agile stuff: Atlassian, Scrum, Planning, Grooming
 
 ### employment
-<span style="background-color: #d9e1ff">&nbsp;&nbsp;Freelancer&nbsp;&nbsp;</span>
+<span style="background-color: #d9e1ff">&nbsp;&nbsp;Java Freelancer&nbsp;&nbsp;</span>
 2019 July - present
 
 <span style="background-color: #d9e1ff">&nbsp;&nbsp;Sberbank&nbsp;&nbsp;</span>
