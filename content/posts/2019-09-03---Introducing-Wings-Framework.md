@@ -26,7 +26,7 @@ It has unit test for rules of some types, guardrails, coverage, pipelines.
 On the other hand java ecosystem has lots of excellent mature open source libraries and tools.
 Testing frameworks such as JUnit, TestNG, testing libraries mockito, easy mock,
 Automation tools - Jenkins, 
-Monitoring - prometheus, tick stack
+Monitoring - prometheus, TICK stack
 Sonarqube
 
 So, why dont't leverage these technologies?
